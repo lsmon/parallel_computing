@@ -2,6 +2,14 @@
 
 HW1
 Quiz: Problem Set 1
-We would like to thank Erich Elsen of Royal Caliber and Mike Roberts for writing the scripts to this problem set help video.
+Convert a color picture to black and white
 
-Also, the image is represented as an 1D array in the kernel, not a 2D array like I mentioned in the video.
+Lesson 2 - GPU Hardware and Parallel Communication Patterns
+
+atomic
+barriers
+square
+
+HW2
+Quiz: Problem set 2
+Blur a picture

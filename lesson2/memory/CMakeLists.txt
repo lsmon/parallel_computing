@@ -1,0 +1,2 @@
+set(CUDA_MEMORY_SRC main.cu)
+CUDA_ADD_EXECUTABLE(cuda_memory ${CUDA_MEMORY_SRC})

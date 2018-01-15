@@ -1,0 +1,2 @@
+set(CUDA_BARRIERS_SRC main.cu)
+CUDA_ADD_EXECUTABLE(cuda_barrier ${CUDA_BARRIERS_SRC})

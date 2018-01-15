@@ -1,0 +1,2 @@
+set(CUDA_SQUARE_SRC main.cu)
+CUDA_ADD_EXECUTABLE(cuda_square ${CUDA_SQUARE_SRC})
